@@ -1,0 +1,27 @@
+{
+    "artist": "Lil Peep",
+    "backgroundColor": "#363230",
+    "image": "peep",
+    "released": 2017,
+    "title": "HELLBOY",
+    "tracks": [
+      { "title": "Hellboy", "seconds": 161 },
+      { "title": "Drive By", "seconds": 245 },
+      { "title": "OMFG", "seconds": 288 },
+      { "title": "The Song They Played", "seconds": 215 },
+      { "title": "Fucked Up", "seconds": 345 },
+      { "title": "Cobain", "seconds": 250 },
+      { "title": "Gucci Mane", "seconds": 287 },
+      { "title": "Interlude", "seconds": 271 },
+      { "title": "Worlds Away", "seconds": 210 },
+      { "title": "Red Drop Shawty", "seconds": 237 },
+      { "title": "Girls", "seconds": 345 },
+      { "title": "Nose Ring", "seconds": 347 },
+      { "title": "We Think Too Much", "seconds": 312 },
+      { "title": "The Last Thing I Wanna Do", "seconds": 271 },
+      { "title": "Walk Away As The Door Slams", "seconds": 142 },
+      { "title": "Move On, Be Strong", "seconds": 212 }
+
+    ]
+  }
+  
