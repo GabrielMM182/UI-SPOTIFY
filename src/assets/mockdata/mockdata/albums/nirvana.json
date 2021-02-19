@@ -1,0 +1,23 @@
+{
+    "artist": "Nirvana",
+    "backgroundColor": "#644548",
+    "image": "nirvana",
+    "released": 1991,
+    "title": "Nevermind",
+    "tracks": [
+      { "title": "Smeels Like Teen Spirit", "seconds": 161 },
+      { "title": "In Bloom", "seconds": 245 },
+      { "title": "Come As You Are", "seconds": 288 },
+      { "title": "Breed", "seconds": 215 },
+      { "title": "Lithium", "seconds": 345 },
+      { "title": "Polly", "seconds": 250 },
+      { "title": "Territorial Pissings", "seconds": 287 },
+      { "title": "Drain You", "seconds": 271 },
+      { "title": "Lounge Act", "seconds": 210 },
+      { "title": "Stay Away", "seconds": 237 },
+      { "title": "On A Plain", "seconds": 345 },
+      { "title": "Something In The Way", "seconds": 347 },
+      { "title": "Endless Nameless", "seconds": 312 }
+    ]
+  }
+  

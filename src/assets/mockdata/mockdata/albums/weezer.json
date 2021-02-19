@@ -1,0 +1,20 @@
+{
+    "artist": "Weezer",
+    "backgroundColor": "#87744a",
+    "image": "weezer",
+    "released": 1994,
+    "title": "Weezer (blue album)",
+    "tracks": [
+      { "title": "My Name Is Jonas", "seconds": 161 },
+      { "title": "No One Else", "seconds": 245 },
+      { "title": "The World Has Turned And Left Me Here", "seconds": 288 },
+      { "title": "Buddy Holly", "seconds": 215 },
+      { "title": "Undone", "seconds": 345 },
+      { "title": "Surf Wax America", "seconds": 250 },
+      { "title": "Say It Ain't So", "seconds": 287 },
+      { "title": "In The Garage", "seconds": 271 },
+      { "title": "Holiday", "seconds": 210 },
+      { "title": "Only In Dreams", "seconds": 237 }
+    ]
+  }
+  

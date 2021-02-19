@@ -1,0 +1,24 @@
+{
+    "artist": "The White Stripes",
+    "backgroundColor": "#a7b9db",
+    "image": "stripes",
+    "released": 2000,
+    "title": "De Stiji",
+    "tracks": [
+      { "title": "You're Pretty Good Looking", "seconds": 161 },
+      { "title": "Hello Operator", "seconds": 245 },
+      { "title": "Little Bird", "seconds": 288 },
+      { "title": "Apple Blossom", "seconds": 215 },
+      { "title": "I'm Bound To Pack It Up", "seconds": 345 },
+      { "title": "Death Letter", "seconds": 125 },
+      { "title": "Sister, Do You Know My Name?", "seconds": 347 },
+      { "title": "Truth Doesn't Make a Noise", "seconds": 210 },
+      { "title": "Boy's Best Friend", "seconds": 146 },
+      { "title": "Let's Build a Home", "seconds": 324 },
+      { "title": "Jumble, Jumble", "seconds": 210 },
+      { "title": "Why Can't You Be Nicer to Me?", "seconds": 368 },
+      { "title": "Your Southern Can Is Mine", "seconds": 288 }
+
+    ]
+  }
+  
