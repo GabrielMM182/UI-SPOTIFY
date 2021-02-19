@@ -1,0 +1,27 @@
+{
+    "artist": "Mac Miller",
+    "backgroundColor": "#736026",
+    "image": "mac",
+    "released": 2010,
+    "title": "K.I.D.S",
+    "tracks": [
+      { "title": "Kicking'Incredibly Dope Shit (intro)", "seconds": 161 },
+      { "title": "Outside", "seconds": 245 },
+      { "title": "Get Em Up", "seconds": 288 },
+      { "title": "Nikes On My Feet", "seconds": 215 },
+      { "title": "Senior Skip Day", "seconds": 345 },
+      { "title": "The Spins", "seconds": 250 },
+      { "title": "Don't Mind if i Do", "seconds": 287 },
+      { "title": "Paper Route", "seconds": 271 },
+      { "title": "Good Evening", "seconds": 210 },
+      { "title": "Ride Around", "seconds": 237 },
+      { "title": "Knock Knock", "seconds": 345 },
+      { "title": "Mad Flava", "seconds": 45 },
+      { "title": "Kool Aid & Frozen Pizza", "seconds": 372 },
+      { "title": "All i Want Is You", "seconds": 142 },
+      { "title": "Poppy", "seconds": 214 },
+      { "title": "Face In The Crowd", "seconds": 275 }
+
+    ]
+  }
+  

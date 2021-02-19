@@ -1,0 +1,23 @@
+{
+    "artist": "Blink-182",
+    "backgroundColor": "#3d4c6c",
+    "image": "blink",
+    "released": 2001,
+    "title": "Take Off Your Pants And Jacket",
+    "tracks": [
+      { "title": "Anthem Part Two", "seconds": 161 },
+      { "title": "Online Songs", "seconds": 245 },
+      { "title": "First Date", "seconds": 288 },
+      { "title": "Happy Holidays, You Bastard", "seconds": 215 },
+      { "title": "Story Of A Lonely Guy", "seconds": 345 },
+      { "title": "The Rock Show", "seconds": 250 },
+      { "title": "Stay Together For The Kids", "seconds": 287 },
+      { "title": "Roller Coaster", "seconds": 271 },
+      { "title": "Reckless Abandon", "seconds": 210 },
+      { "title": "Every Time I Look For You", "seconds": 237 },
+      { "title": "Give Me One Good Reason", "seconds": 345 },
+      { "title": "Shut Up", "seconds": 347 },
+      { "title": "Please Take Me Home", "seconds": 240}
+    ]
+  }
+  

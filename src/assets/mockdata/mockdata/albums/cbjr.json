@@ -1,0 +1,22 @@
+{
+    "artist": "Charlie Brown Jr",
+    "backgroundColor": "#87744a",
+    "image": "cbjr",
+    "released": 2001,
+    "title": "100% Charlie Brown Jr-Abalando A Sua Fabrica",
+    "tracks": [
+      { "title": "Eu Protesto", "seconds": 161 },
+      { "title": "Hoje Eu Acordei Feliz", "seconds": 245 },
+      { "title": "Sino Dourado", "seconds": 288 },
+      { "title": "Quebra-Mar", "seconds": 215 },
+      { "title": "Lugar Ao Sol", "seconds": 345 },
+      { "title": "Descubra O Que Há De Errado Com Você", "seconds": 250 },
+      { "title": "Só Lazer", "seconds": 287 },
+      { "title": "Você Vai De Limusine,Eu Vou De Trem", "seconds": 271 },
+      { "title": "O Lado Certo Da Vida Errada", "seconds": 210 },
+      { "title": "T.F.D.P", "seconds": 237 },
+      { "title": "Tudo Pro Alto", "seconds": 345 },
+      { "title": "Como Tudo Deve Ser", "seconds": 347 }
+    ]
+  }
+  

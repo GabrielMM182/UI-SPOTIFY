@@ -1,0 +1,26 @@
+{
+    "artist": "Machine Gun Kelly",
+    "backgroundColor": "#644548",
+    "image": "mgk",
+    "released": 2020,
+    "title": "Tickets To My Downfall",
+    "tracks": [
+      { "title": "Title Track", "seconds": 161 },
+      { "title": "Kiss Kiss", "seconds": 245 },
+      { "title": "Drunk Face", "seconds": 288 },
+      { "title": "Bloody Valentine", "seconds": 215 },
+      { "title": "Forget Me Too", "seconds": 345 },
+      { "title": "All i Know", "seconds": 250 },
+      { "title": "Lonely", "seconds": 287 },
+      { "title": "WWIII", "seconds": 271 },
+      { "title": "Kevin and Barracuda", "seconds": 210 },
+      { "title": "Concert For Aliens", "seconds": 237 },
+      { "title": "My Ex's Best Friend", "seconds": 345 },
+      { "title": "Jawbreaker", "seconds": 347 },
+      { "title": "Nothing Inside", "seconds": 312 },
+      { "title": "Banyan Tree", "seconds": 127 },
+      { "title": "Play This When i'm Gone", "seconds": 120 }
+
+    ]
+  }
+  

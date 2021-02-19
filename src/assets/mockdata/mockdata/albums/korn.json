@@ -1,0 +1,22 @@
+{
+    "artist": "Korn",
+    "backgroundColor": "#0d2157",
+    "image": "korn",
+    "released": 1994,
+    "title": "KoRn",
+    "tracks": [
+      { "title": "Blind", "seconds": 251 },
+      { "title": "Ball Tongue", "seconds": 248 },
+      { "title": "Need To", "seconds": 320 },
+      { "title": "Clown", "seconds": 403 },
+      { "title": "Divine", "seconds": 282 },
+      { "title": "Faget", "seconds": 328 },
+      { "title": "Shoots and Ladders", "seconds": 294 },
+      { "title": "Predictable", "seconds": 257 },
+      { "title": "Fake", "seconds": 204 },
+      { "title": "Lies", "seconds": 277 },
+      { "title": "Helmet in the Bush" , "seconds": 410},
+      { "title": "Daddy", "seconds": 514}
+    ]
+  }
+  

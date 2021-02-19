@@ -1,0 +1,22 @@
+{
+    "artist": "Linkin Park",
+    "backgroundColor": "#636e35",
+    "image": "linkin",
+    "released": 2000,
+    "title": "Hybrid Theory",
+    "tracks": [
+      { "title": "Papercut", "seconds": 224 },
+      { "title": "One Step Closer", "seconds": 326 },
+      { "title": "With You", "seconds": 337 },
+      { "title": "Points of Authorith", "seconds": 181 },
+      { "title": "Crawling", "seconds": 245 },
+      { "title": "Runaway", "seconds": 216 },
+      { "title": "By Myself", "seconds": 333 },
+      { "title": "In The End", "seconds": 222 },
+      { "title": "A Place For My Head", "seconds": 215 },
+      { "title": "Forgotten", "seconds": 248 },
+      { "title": "Cure For The Itch", "seconds": 261 },
+      { "title": "Pushing Me Away", "seconds": 226 }
+    ]
+  }
+  
