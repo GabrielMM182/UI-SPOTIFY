@@ -1,6 +1,7 @@
 [
-  { "id": 1, "color": "#e69c40", "title": "Hip-Hop" },
+  { "id": 1, "color": "#e69c40", "title": "Rap" },
   { "id": 2, "color": "#3905E5", "title": "Indie" },
   { "id": 3, "color": "#d23739", "title": "Rock" },
-  { "id": 4, "color": "#b5d4b5", "title": "Pop" }
+  { "id": 4, "color": "#b5d4b5", "title": "Nu Metal" },
+  { "id": 5, "color": "#b5d4b5", "title": "Br Rock 00"}
 ]

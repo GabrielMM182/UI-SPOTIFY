@@ -7,6 +7,13 @@ import { Component } from '@angular/core';
 })
 export class Tab1Page {
 
+  data = [
+    {
+      title: 'Recently played',
+      // albums: recentlyPlayed
+    }
+  ]
+
   constructor() {}
 
 }
